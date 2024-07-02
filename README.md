@@ -1,6 +1,6 @@
-# 🎬 Movies dataset template
+# ⚾ Hey Batter
 
-A simple Streamlit app showing movie data from [The Movie Database (TMDB)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). 
+Simple application pulling individual MLB batting statistics 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://interactive-data-explorer-template.streamlit.app/)
 
